@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FoodieStopnightKichen/static/css/main.e6c13ad2.css",
+    "main.js": "/FoodieStopnightKichen/static/js/main.fc16fe7b.js",
+    "static/js/453.3f323779.chunk.js": "/FoodieStopnightKichen/static/js/453.3f323779.chunk.js",
+    "index.html": "/FoodieStopnightKichen/index.html",
+    "main.e6c13ad2.css.map": "/FoodieStopnightKichen/static/css/main.e6c13ad2.css.map",
+    "main.fc16fe7b.js.map": "/FoodieStopnightKichen/static/js/main.fc16fe7b.js.map",
+    "453.3f323779.chunk.js.map": "/FoodieStopnightKichen/static/js/453.3f323779.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fc16fe7b.js"
+  ]
+}
